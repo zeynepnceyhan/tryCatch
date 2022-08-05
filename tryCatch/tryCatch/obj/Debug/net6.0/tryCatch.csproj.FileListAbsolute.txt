@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.exe
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.deps.json
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.runtimeconfig.json
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.dll
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.pdb
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.dll
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\refint\tryCatch.dll
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.pdb
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\tryCatch\tryCatch\obj\Debug\net6.0\ref\tryCatch.dll
